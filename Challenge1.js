@@ -14,5 +14,4 @@ function getGrade(marks){
         return 'E';
     }
 }
-//for testing purposes
-console.log(getGrade(67));
+
