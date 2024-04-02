@@ -43,7 +43,7 @@ function calculateDemeritPoints(speed) {
 
     // If-else for speed limit
     if (speed <= speedLimit) {
-        return 0;
+        return "Ok";
     } else {
         // Calculating the number of demerit points
         const excessSpeed = speed - speedLimit;
