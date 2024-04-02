@@ -14,7 +14,7 @@ Curious about how much you'll take home from your job? This calculator has you c
 
 About the Author
 Name: Patrick Maina
-Contact: Feel free to shoot me an email at mpatricknjuguna02@gmail.com if you have any questions or just want to say hi!
+Contact: Feel free to send me an email at mpatricknjuguna02@gmail.com if you have any questions.
 
 License
 This repository is licensed under the MIT License. So feel free to use it for your assignments or anything else you need.
